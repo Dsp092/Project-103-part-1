@@ -1,0 +1,26 @@
+body 
+{
+    color:white;
+ background-color: pink;
+}
+
+.heading 
+{
+   width:80%;
+   font-size:20px;
+}
+
+.everything 
+{
+    font-size: 17px;
+    color:salmon;
+    background-color: blue;
+    background-size: cover;
+}
+
+#Object_camera
+{
+    border:2px dashed salmon;
+    width:350px;
+    height:350px;
+}
